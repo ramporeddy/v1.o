@@ -2,6 +2,7 @@
 local
 welcome to our version
 this is gui tool
-operate simple
-thanks
+operate simple    
+thanks 
+regards
 
